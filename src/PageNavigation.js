@@ -41,7 +41,7 @@ const PageNavigation = () => {
     }, [currentPage]);
   
     const totalPages = 10; 
-    // Assuming there are 10 pages
+
 
 
 
